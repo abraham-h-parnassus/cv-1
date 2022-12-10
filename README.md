@@ -10,3 +10,4 @@
    ```
    python -m main.py
    ```
+3. Train model by selecting `train/train-processed.idl` IDL file in the "Training" section.
